@@ -7,3 +7,4 @@
 	- [WinForm App (.NET 8.0)](./WF_App_8.0/README.md)
 - WPF
 	- [WPF App (.NET Framework 8.0)](./WPF_App_4.7.2/README.md)
+	- [WPF App (.NET 8.0)](./WPF_App_8.0/README.md)
